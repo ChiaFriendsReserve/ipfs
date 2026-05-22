@@ -1,0 +1,50 @@
+{
+  "format": "CHIP-0007",
+  "name": "Chia Friends Reserve #3357",
+  "description": "10,000 eco-bit NFTs on Chia, from Chia.",
+  "sensitive_content": false,
+  "collection": {
+    "name": "Chia Friends Reserve",
+    "id": "fb8ba640-771f-486a-b1df-fa84dc934110",
+    "attributes": [
+      {
+        "type": "description",
+        "value": "10,000 eco-bit NFTs on Chia, from Chia."
+      },
+      {
+        "type": "twitter",
+        "value": "@chia_friends"
+      },
+      {
+        "type": "website",
+        "value": "https://www.chiafriends.xyz/"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Artifacts",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Jellyfish"
+    },
+    {
+      "trait_type": "Body",
+      "value": "K32 (Steel)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Hieroglyphs",
+      "value": 2
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Jagged (Steel)"
+    }
+  ]
+}
